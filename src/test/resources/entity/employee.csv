@@ -1,0 +1,6 @@
+id,email,password,name,phone,dateOfBirth,expected
+1,admin@vpa.com,kY$60#25#IL,Admin,111-602-23-00,1996-07-03,"Employee{id=1, email='admin@vpa.com', name='Admin', phone='111-602-23-00', dateOfBirth=1996-07-03}"
+2,manager@vpa.com,pk%47#82%Fx,Monger,111-402-57-21,1992-10-11,"Employee{id=2, email='manager@vpa.com', name='Monger', phone='111-402-57-21', dateOfBirth=1992-10-11}"
+3,alice@vpa.com,\N#00$46$nj,Alice,111-552-26-31,1980-09-11,"Employee{id=3, email='alice@vpa.com', name='Alice', phone='111-552-26-31', dateOfBirth=1980-09-11}"
+4,adam@vpa.com,fR#25&62$Sb,Adam,111-179-23-90,1992-02-18,"Employee{id=4, email='adam@vpa.com', name='Adam', phone='111-179-23-90', dateOfBirth=1992-02-18}"
+5,timothy@vpa.com,lG&71&18%wj,Timothy,111-802-95-39,1982-08-26,"Employee{id=5, email='timothy@vpa.com', name='Timothy', phone='111-802-95-39', dateOfBirth=1982-08-26}"
